@@ -1,2 +1,2 @@
 # restCountries
-Just a small project created in order to learn about AJAX, fetch, promises, async and await
+Just a small project, that is created in order to learn about AJAX, fetch, promises, async and await
