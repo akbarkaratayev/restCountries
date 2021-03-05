@@ -17,4 +17,6 @@ There are couple of screenshots below
 
 ![Fifth screenshot](img/screenshot5.png)
 
-![Fifth screenshot](img/screenshot6.png)
+### The result of the wrong search
+---
+![Sixth screenshot](img/screenshot6.png)
