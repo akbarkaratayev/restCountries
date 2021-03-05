@@ -16,3 +16,5 @@ There are couple of screenshots below
 ![Fourth screenshot](img/screenshot4.png)
 
 ![Fifth screenshot](img/screenshot5.png)
+
+![Fifth screenshot](img/screenshot6.png)
