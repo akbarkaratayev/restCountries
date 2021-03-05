@@ -7,3 +7,6 @@ There are couple of screenshots below
 ![First screenshot](img/screenshot1.png)
 ### Results of searching
 ![Second screenshot](img/screenshot2.png)
+![Second screenshot](img/screenshot3.png)
+![Second screenshot](img/screenshot4.png)
+![Second screenshot](img/screenshot5.png)
