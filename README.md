@@ -3,5 +3,5 @@ Just a small project, that is created in order to learn about AJAX, fetch, promi
 
 There are couple of screenshots below
 
-![First screenshot](img/screenshot1.jpg)
+![First screenshot](img/screenshot1.png)
 ![Second screenshot](img/screenshot2.png)
