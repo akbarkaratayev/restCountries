@@ -5,5 +5,5 @@ There are couple of screenshots below
 
 ### The very first look:
 ![First screenshot](img/screenshot1.png)
-### The result after searching
+### Results of searching
 ![Second screenshot](img/screenshot2.png)
