@@ -60,7 +60,7 @@ document.querySelector('#submitBtn').addEventListener('click', event => {
 
 const getCountryData = function (country) {
   countriesContainer.innerHTML = '';
-  fetch(`https://restcountries.eu/rest/v2/name/${country}`)
+  fetch(`https://restcountries.com/v3.1/name/${country}`)
     .then(response => {
       console.log(response);
 
@@ -77,7 +77,7 @@ const getCountryData = function (country) {
       let nbArray = new Array();
       for (let ctry in neighbours) {
         nbArray[ctry] = fetch(
-          `https://restcountries.eu/rest/v2/alpha/${neighbours[ctry]}`
+          `https://restcountries.com/v3.1/alpha/${neighbours[ctry]}`
         );
       }
       return nbArray;
